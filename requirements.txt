@@ -1,0 +1,13 @@
+streamlit
+openai
+llama-index
+langchain
+langchain_community
+PyPDF2 
+google-generativeai 
+markdown
+
+llama-parse
+streamlit 
+requests 
+xml.etree.ElementTree
