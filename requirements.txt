@@ -1,4 +1,6 @@
-
-streamlit 
-requests 
+google-generativeai
+streamlit
+PyPDF2
+markdown
+requests
 xml.etree.ElementTree
